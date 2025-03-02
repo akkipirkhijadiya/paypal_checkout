@@ -1,7 +1,7 @@
 name: paypal_checkout
 description: "Easily integrate PayPal Checkout in your Flutter app with PayPal login & direct card payments. Secure, fast, and developer-friendly for seamless transactions!"
 version: 0.0.1
-homepage:
+homepage: https://github.com/akkipirkhijadiya/paypal_checkout.git
 
 environment:
   sdk: ^3.6.0
